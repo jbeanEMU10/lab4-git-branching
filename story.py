@@ -10,7 +10,7 @@ def intro():
     else:
         print("You stand still, unsure what to do. The forest swallows you.")
         print("You deafated the dragon!")
-        print("You saved the world!")
+        print("You saved the world")
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
