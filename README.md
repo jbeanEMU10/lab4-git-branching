@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _Added 2 paths to the left path choice_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _Added 2 paths to right choice_
 
 ## Final Checklist
 
